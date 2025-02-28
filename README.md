@@ -3,3 +3,7 @@ This project is created to analyze and visualizing conflict in 8 regions of the 
 
 Now let's get started!
 
+![image](https://github.com/user-attachments/assets/48bdd715-d4d0-40be-bfe0-6ea7c645d50a)
+
+
+
