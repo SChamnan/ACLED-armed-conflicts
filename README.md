@@ -1,7 +1,7 @@
 # Analyzing Armed Conflict Using ACLED Dataset
 A Tableau dashboard created to analyze conflicts in 75 countries in 8 regions of the world. For interative dashboard, click [here](https://public.tableau.com/app/profile/chamnan.suon/viz/DSDA2015DashboardPresentation/Dashboard2). Datasource used to develop this dashboard comes from ACLED website.
 
-Overall view of the dashboard on Tableau
+Overall view of the dashboard on Tableau:
 
 Figure 1.
 ![image](https://github.com/user-attachments/assets/48bdd715-d4d0-40be-bfe0-6ea7c645d50a)
