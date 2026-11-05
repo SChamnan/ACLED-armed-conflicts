@@ -29,7 +29,7 @@ After data cleaning process, I have a nice and clean dataset of 15 fields and 13
 - `conflict_type` 6 types of conflicts (Battle-No changes in territory, Battle-Government regains territory, Battle-Non-state party overtakes territory, Remote violence, violence against civilians, and riots/protests)
 - `country` countries in covered regions
 
-## Using and Describing the Dashboard
+## Reading Data from Dashboard
 The upper part of the dashboard (see figure 2.) shows title and a brief description of the datasource. Moreover, it describes a high level of data such as regions, countries, and timeframe being analyzed. Futhermore, we see basic statistics showing total countries, total conflicts and total fatalities. Each red dot on the map represents an event and, if you hover over on the map, region name, country name, exact location of the event, and total fatalities are displayed on each dot. Both the left and right side provides the total fatalties in each region. To see how many conflicts and fatalities occurred per month in each region, hover over each mini graph.
 
 Figure 2.
@@ -49,11 +49,11 @@ Figure 5.
 ![image](https://github.com/user-attachments/assets/8bcf4010-c614-4981-9c6e-3ec955cbf33c)
 
 
-## Findings and Insights
+## Key Insights
 Between 2017 and 2018, almost 60% of total fatalities occurred in the Middle East region, making it the least safe region among those analyzed here. Moreover, we learned that over 160,000 fatalities happened in Syria, Afghanistan, and Iraq, with over 40% of the fatalities happening in Syria alone. This made Syria the most dangerous country compared to other 74 countries in this dataset. With regards to the conflict type, a total of 128,082 fatalities were caused by 'battle with no changes in territory,' making it the type of conflict to result in the most fatalities. These numbers and figures show how wars and political conflicts cause hundreds of thousands of deaths each year.
 
-## Challenges
-I would like to compare the trends of fatalities over time, perhaps in a recent year, to see which countries have decreased theeir number of fatalities. However, to download ACLED datasets, I need an access key which is not available for general users.
+## Limitation
+I would like to compare the trends of fatalities over time, perhaps in a recent year, to see which countries have decreased their number of fatalities. However, to download ACLED datasets, I need an access key which is not available for general users.
 
 
 
